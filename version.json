@@ -1,0 +1,6 @@
+{
+  "version": "1.0.8",
+  "downloadUrl": "https://raw.githubusercontent.com/kyivrp810-cloud/BITCOINS-RP/main/BITCOINS_RP_Install.exe",
+  "changelog": "• Оновлення v1.0.8:\n• Пряме завантаження клієнта 02 сервера (game2.rar 4.1 ГБ)\n• Виправлено помилку інсталятора (Помилка 2: не вдалося створити теку)\n• Виправлено авторизацію гравців (крос-пошук між серверами 01/02, підтримка ніків з пробілами та підкресленнями)\n• Архітектура автооновлення на базі WinterLauncher через GitHub Releases",
+  "mandatory": true
+}
