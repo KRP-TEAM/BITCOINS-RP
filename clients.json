@@ -1,5 +1,16 @@
 {
   "01": "https://kozak-rp.cdn.express/~/share/5d30d8fd0d0d/game1.zip",
-  "02": "https://kozak-rp.cdn.express/~/share/511e8dacb41b/game2.rar",
-  "test": "https://kozak-rp.cdn.express/~/share/511e8dacb41b/game2.rar"
+  "02": {
+    "address": "80.47.16.58:22003",
+    "url": "https://kozak-rp.cdn.express/~/share/511e8dacb41b/game2.rar",
+    "files": [
+      { "path": "mta/core.dll", "url": "https://raw.githubusercontent.com/KRP-TEAM/BITCOINS-RP/main/files/02/mta/core.dll", "sha256": "960e77884fcd53ad7fd4dd4c23003bc51c30845de4cf30df97d071f6c525e4c7" }
+    ]
+  },
+  "test": {
+    "url": "https://kozak-rp.cdn.express/~/share/511e8dacb41b/game2.rar",
+    "files": [
+      { "path": "mta/core.dll", "url": "https://raw.githubusercontent.com/KRP-TEAM/BITCOINS-RP/main/files/02/mta/core.dll", "sha256": "960e77884fcd53ad7fd4dd4c23003bc51c30845de4cf30df97d071f6c525e4c7" }
+    ]
+  }
 }
